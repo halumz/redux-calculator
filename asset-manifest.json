@@ -1,14 +1,14 @@
 {
-  "main.css": "/redux-calculator/static/css/main.f12c7dbc.chunk.css",
-  "main.js": "/redux-calculator/static/js/main.3d449a24.chunk.js",
-  "main.js.map": "/redux-calculator/static/js/main.3d449a24.chunk.js.map",
-  "static/js/1.7d3bfaa0.chunk.js": "/redux-calculator/static/js/1.7d3bfaa0.chunk.js",
-  "static/js/1.7d3bfaa0.chunk.js.map": "/redux-calculator/static/js/1.7d3bfaa0.chunk.js.map",
-  "runtime~main.js": "/redux-calculator/static/js/runtime~main.51d3b5c4.js",
-  "runtime~main.js.map": "/redux-calculator/static/js/runtime~main.51d3b5c4.js.map",
-  "static/media/app.css": "/redux-calculator/static/media/Roboto-Bold.36b5bab5.ttf",
-  "static/css/main.f12c7dbc.chunk.css.map": "/redux-calculator/static/css/main.f12c7dbc.chunk.css.map",
-  "index.html": "/redux-calculator/index.html",
-  "precache-manifest.7ce7152399d97bf6cc36c7c0375bbe40.js": "/redux-calculator/precache-manifest.7ce7152399d97bf6cc36c7c0375bbe40.js",
-  "service-worker.js": "/redux-calculator/service-worker.js"
+  "main.css": "/static/css/main.fa9ef7a1.chunk.css",
+  "main.js": "/static/js/main.21dab6c3.chunk.js",
+  "main.js.map": "/static/js/main.21dab6c3.chunk.js.map",
+  "static/js/1.7d3bfaa0.chunk.js": "/static/js/1.7d3bfaa0.chunk.js",
+  "static/js/1.7d3bfaa0.chunk.js.map": "/static/js/1.7d3bfaa0.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/app.css": "/static/media/Roboto-Bold.36b5bab5.ttf",
+  "static/css/main.fa9ef7a1.chunk.css.map": "/static/css/main.fa9ef7a1.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.23fec5319ebaaeead81c66e8064382d9.js": "/precache-manifest.23fec5319ebaaeead81c66e8064382d9.js",
+  "service-worker.js": "/service-worker.js"
 }

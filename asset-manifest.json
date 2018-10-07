@@ -1,14 +1,14 @@
 {
-  "main.css": "/redux-calculator/static/css/main.61e5ebbb.chunk.css",
-  "main.js": "/redux-calculator/static/js/main.a3b08bfd.chunk.js",
-  "main.js.map": "/redux-calculator/static/js/main.a3b08bfd.chunk.js.map",
+  "main.css": "/redux-calculator/static/css/main.35adadc9.chunk.css",
+  "main.js": "/redux-calculator/static/js/main.b92faf9a.chunk.js",
+  "main.js.map": "/redux-calculator/static/js/main.b92faf9a.chunk.js.map",
   "static/js/1.7d3bfaa0.chunk.js": "/redux-calculator/static/js/1.7d3bfaa0.chunk.js",
   "static/js/1.7d3bfaa0.chunk.js.map": "/redux-calculator/static/js/1.7d3bfaa0.chunk.js.map",
   "runtime~main.js": "/redux-calculator/static/js/runtime~main.51d3b5c4.js",
   "runtime~main.js.map": "/redux-calculator/static/js/runtime~main.51d3b5c4.js.map",
   "static/media/app.css": "/redux-calculator/static/media/Roboto-Bold.36b5bab5.ttf",
-  "static/css/main.61e5ebbb.chunk.css.map": "/redux-calculator/static/css/main.61e5ebbb.chunk.css.map",
+  "static/css/main.35adadc9.chunk.css.map": "/redux-calculator/static/css/main.35adadc9.chunk.css.map",
   "index.html": "/redux-calculator/index.html",
-  "precache-manifest.c2366f5e59b6f13e05428de81a9c2d59.js": "/redux-calculator/precache-manifest.c2366f5e59b6f13e05428de81a9c2d59.js",
+  "precache-manifest.df9d41f75d5bffe6ce2c4c4123128734.js": "/redux-calculator/precache-manifest.df9d41f75d5bffe6ce2c4c4123128734.js",
   "service-worker.js": "/redux-calculator/service-worker.js"
 }

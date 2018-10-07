@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/redux-calculator/static/js/runtime~main.51d3b5c4.js"
   },
   {
-    "revision": "a3b08bfdc7ce5e296879",
-    "url": "/redux-calculator/static/js/main.a3b08bfd.chunk.js"
+    "revision": "b92faf9a305647f2dffc",
+    "url": "/redux-calculator/static/js/main.b92faf9a.chunk.js"
   },
   {
     "revision": "7d3bfaa0719d90057512",
     "url": "/redux-calculator/static/js/1.7d3bfaa0.chunk.js"
   },
   {
-    "revision": "a3b08bfdc7ce5e296879",
-    "url": "/redux-calculator/static/css/main.61e5ebbb.chunk.css"
+    "revision": "b92faf9a305647f2dffc",
+    "url": "/redux-calculator/static/css/main.35adadc9.chunk.css"
   },
   {
-    "revision": "f4467013e87d0012105a8224efbe5cd3",
+    "revision": "de01fedf65cb94650750ef5cd3dd55d4",
     "url": "/redux-calculator/index.html"
   }
 ];
